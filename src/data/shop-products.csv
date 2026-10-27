@@ -1,0 +1,80 @@
+source|brand|model|category|price|processor|ram|storage|display|graphics|os|colour|warranty|details
+sheet-1-row-01|Dell|5540/15250|Laptops|54990|Intel Core 3 14th Gen|8GB|512GB SSD|14.0 HD|Intel UHD|DOS|Ice Blue|1 year|Antivirus: N/A
+sheet-1-row-02|Dell|5440|Laptops|54990|Intel Core i3 13th Gen|8GB|512GB SSD|14.0 HD|Intel UHD|DOS|Ice Blue|1 year|Antivirus: N/A
+sheet-1-row-03|Dell|15250|Laptops|55990|Intel Core 3 14th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|DOS|Black|1 year|Antivirus: 1 year
+sheet-1-row-04|Dell|15250|Laptops|69990|Intel Core 3 14th Gen|16GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Black|1 year|Antivirus: 1 year
+sheet-1-row-05|Dell|15250|Laptops|60990|Intel Core 3 14th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Black|1 year|Antivirus: 1 year
+sheet-1-row-06|Dell|15250|Laptops|63990|Intel Core 3 14th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Silver|1 year|Antivirus: 1 year
+sheet-1-row-07|Dell|15250|Laptops|55990|AMD Ryzen 5 7520U|8GB|512GB SSD|15.6 FHD|AMD Radeon|DOS|Black|1 year|Antivirus: 1 year
+sheet-1-row-08|Dell|3535|Laptops|62990|AMD Ryzen 5 7520U|8GB|512GB SSD|15.6 FHD|AMD Radeon|Windows 11 + Office|Black|1 year|Antivirus: 1 year
+sheet-1-row-09|Dell|3535/15255|Laptops|63990|AMD Ryzen 5 7520U|16GB|512GB SSD|15.6 FHD|AMD Radeon|Windows 11 + Office|Silver|1 year|Antivirus: 1 year
+sheet-1-row-10|Dell|15250|Laptops|65990|Intel Core i5-1334U 13th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|DOS|Black|3 years|Antivirus: 1 year
+sheet-1-row-11|Dell|3530|Laptops|67990|Intel Core i5-1334U 13th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Black|3 years|Antivirus: 1 year
+sheet-1-row-12|Dell|15250|Laptops|67990|Intel Core i5-1334U 13th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Black|1 year|Antivirus: 1 year
+sheet-1-row-13|Dell|3530|Laptops|69900|Intel Core i5-1334U 13th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Silver|1 year|Antivirus: 1 year
+sheet-1-row-14|Dell|3530/Vostro|Laptops|78990|Intel Core i5-1334U 13th Gen|16GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Silver|1 year|Antivirus: 1 year
+sheet-1-row-15|Acer|A325-45V|Laptops|39900|Intel N4500|8GB|256GB SSD|15.6 FHD|Intel UHD|Windows 11 + Office|Silver|1 year|Antivirus: 1 year
+sheet-1-row-16|Acer|A325-42V-V2|Laptops|48990|AMD Ryzen 3|8GB|256GB SSD|15.6 FHD|AMD Radeon|Windows 11|Silver|1 year|Antivirus: 1 year
+sheet-1-row-17|Acer|AL 15-53|Laptops|49990|Intel Core i3 13th Gen|8GB|512GB SSD|15.6 FHD|Intel UHD|Windows 11|Silver|1 year|Antivirus: 1 year
+sheet-2-hp-01|HP|250|Laptops|38990|AMD Athlon|4GB|256GB SSD|15.6 HD LED|AMD Graphics|DOS|Grey|1 year|Card reader; Wi-Fi; Bluetooth; webcam
+sheet-2-hp-02|HP|255R G10|Laptops|48990|Ryzen 3 (listed as Intel RYZEN 3)|8GB|512GB NVMe SSD|15.6 HD LED|AMD Graphics|Windows 11|Silver|1 year|Card reader; Wi-Fi; Bluetooth; webcam; processor label to confirm
+sheet-2-hp-03|HP|250R G10|Laptops|54990|Intel Core 3|8GB|512GB NVMe SSD|15.6 HD LED|Intel UHD|Windows 11|Silver|1 year|Card reader; Wi-Fi; Bluetooth; webcam
+sheet-2-hp-04|HP|650 G10|Laptops|62990|Intel Core i3|8GB|512GB NVMe SSD|15.6 HD LED|Intel UHD|Windows 11|Silver|1 year|Metal body; card reader; Wi-Fi; Bluetooth; webcam
+sheet-2-hp-05|HP|255R G10|Laptops|56990|Ryzen 5 (listed as Intel Ryzen 5)|8GB|512GB NVMe SSD|15.6 HD LED|AMD Graphics|Windows 11|Silver|1 year|Card reader; Wi-Fi; Bluetooth; webcam; processor label to confirm
+sheet-2-hp-06|HP|250R G10|Laptops|68990|Intel Core 5|8GB|512GB NVMe SSD|15.6 HD LED|Intel UHD|Windows 11|Silver|1 year|Card reader; Wi-Fi; Bluetooth; webcam
+sheet-2-hp-07|HP|15S-FD186TU|Laptops|62990|Intel Core i3-1315U up to 4.5GHz|8GB|512GB NVMe SSD|15.6 FHD LED|Intel UHD|Windows 11 + MS Office|Silver|1 year|10MB L3 cache; 6 cores; 8 threads; Wi-Fi; Bluetooth; webcam
+sheet-2-hp-08|HP|15 FD 0668TU|Laptops|68990|Intel Core i3-1315U up to 4.5GHz|16GB|512GB NVMe SSD|15.6 FHD LED|Intel UHD|Windows 11 + MS Office|Silver|1 year|10MB L3 cache; 6 cores; 8 threads; Wi-Fi; Bluetooth; webcam
+sheet-2-hp-09|HP|15-FD 0467TU|Laptops|82990|Intel Core i5-1334U up to 4.6GHz|16GB|512GB SSD|15.6 FHD|Intel Iris Xe|Windows 11 + Office 2024|Silver|Not specified|12MB L3 cache; 10 cores; 12 threads
+sheet-2-hp-10|HP|14-EP-0340TU|Laptops|82990|Intel Core i5-1334U|16GB|512GB SSD|14.0 FHD|Intel UHD|Windows 11 + Microsoft Office|Not specified|1 year|
+sheet-2-hp-11|HP|15-FC 0690AU|Laptops|70990|AMD Ryzen 5 7520U|16GB DDR5|512GB NVMe SSD|15.6 FHD|AMD Radeon|Windows 11 + MS Office 2024|Silver|1 year|
+sheet-2-hp-12|HP|15 FD 0576TU|Laptops|82990|Intel Core i5-1334U up to 4.6GHz|16GB|512GB SSD|15.6 FHD|Intel Iris Xe|Windows 11 + Office 2024|Not specified|Not specified|12MB L3 cache; 10 cores; 12 threads
+sheet-2-hp-13|HP|FD 0640TU|Laptops|79990|Intel Core 5-120U|16GB DDR4-3200|512GB SSD|15.6 FHD|Not specified|Windows 11 + Microsoft Office|Not specified|1 year|
+sheet-2-hp-14|HP|15-FC533AY|Laptops|76990|AMD Ryzen 7 5825U|16GB DDR5|512GB NVMe SSD|15.6 FHD|AMD Radeon|Windows 11 + MS Office 2024|Silver|1 year|RAM generation is listed as DDR5 in the supplied sheet; confirm with showroom
+sheet-2-hp-15|HP|15-fa2703TX|Laptops|98990|Intel Core i5-13420H up to 4.6GHz|16GB DDR5|512GB SSD|15.6 FHD IPS 144Hz 300 nits|NVIDIA GeForce RTX 2050 4GB|Not specified|Not specified|Not specified|Backlit keyboard; DTS:X Ultra; HP Audio Boost; HP Wide Vision 720p camera; dual-array microphones
+sheet-2-hp-16|HP|15-FB-3012AX|Laptops|93990|AMD Ryzen 5 8645HS|16GB DDR5-5600|512GB SSD|Not specified|NVIDIA RTX 3050 6GB|Windows 11 Home|Not specified|Not specified|Upgradeable M.2 slot and RAM; full-size backlit keyboard with numeric keypad; HP Wide Vision 720p camera
+sheet-2-hp-17|HP|15-FB-3189AX|Laptops|102990|AMD Ryzen 7 7745HS|16GB DDR5-5600|512GB SSD|Not specified|NVIDIA RTX 2050 4GB|Windows 11 Home|Not specified|Not specified|Upgradeable M.2 slot and RAM; full-size backlit keyboard with numeric keypad; HP Wide Vision 720p camera
+sheet-2-hp-18|HP|15-FB-3120AX|Laptops|110990|AMD Ryzen 7 7745HS|16GB DDR5-5600|512GB SSD|Not specified|NVIDIA RTX 3050 6GB|Windows 11 Home|Not specified|Not specified|Upgradeable M.2 slot and RAM; full-size backlit keyboard with numeric keypad; HP Wide Vision 720p camera
+sheet-2-hp-19|HP|15-fa2303TX|Laptops|130990|Intel Core i5-14450HX up to 4.8GHz|24GB DDR4|512GB SSD|15.6 FHD IPS 144Hz 300 nits|NVIDIA GeForce RTX 3050 6GB|Not specified|Not specified|1 year|Full-size backlit keyboard; HP Audio Boost; HP Wide Vision 720p camera; dual-array microphones
+sheet-2-hp-20|HP|15-fa2903TX|Laptops|165000|Intel Core i7-1362H up to 4.9GHz|24GB DDR4|1TB SSD|15.6 FHD IPS 144Hz 300 nits|NVIDIA GeForce RTX 5050 8GB|Not specified|Not specified|1 year|Processor model transcribed as listed; full-size backlit keyboard; HP Audio Boost; 720p camera; dual-array microphones
+sheet-2-asus-01|ASUS|X1504VAP-IN006WS|Laptops|73990|Intel Core 3 100U|8GB DDR5|512GB PCIe 4.0 SSD|15.6 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + MS Office 2024 + MSO 365|Quiet Blue|Not specified|Non-touch; backlit keyboard
+sheet-2-asus-02|ASUS|X1504VA-BQ321WS|Laptops|62990|Intel Core i3-1315U|8GB DDR4|512GB PCIe 4.0 SSD|15.6 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + MS Office 2024 + MSO 365|Cool Silver|Not specified|Non-touch; backlit keyboard
+sheet-2-asus-03|ASUS|X1504VAP-IN005WS|Laptops|72990|AMD Ryzen 5 40|16GB DDR5|512GB PCIe 3.0 SSD|15.6 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 (IN) + M365 Basic|Cool Silver|Not specified|Model and processor pairing as supplied; non-touch
+sheet-2-asus-04|ASUS|E1504FA-BQ2113WS|Laptops|84990|AMD Ryzen 5 40|16GB DDR5|512GB PCIe 3.0 SSD|15.6 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 (IN) + M365 Basic|Cool Silver|Not specified|Non-touch
+sheet-2-asus-05|ASUS|M1605NAQ-MB095WS|Laptops|81990|AMD Ryzen 5 150|16GB DDR5 (8GB x 2)|512GB PCIe 3.0 SSD|16.0 WUXGA anti-glare 300 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 (IN) + M365 Basic|Cool Silver|Not specified|Non-touch; fingerprint reader; backlit keyboard
+sheet-2-asus-06|ASUS|X1504ZA-NJ520WS|Laptops|64990|Intel Core i5-1235U|8GB DDR4 (4GB x 2)|512GB PCIe 4.0 SSD|15.6 FHD 1920 x 1080 16:9|Not specified|Windows 11 Home + MS Office|Quiet Blue|Not specified|Backlit keyboard
+sheet-2-asus-07|ASUS|X1504VA-NJ522WS|Laptops|69990|Intel Core i5-1335U|8GB DDR4 (4GB x 2)|512GB PCIe 4.0 SSD|15.6 FHD 1920 x 1080 16:9|Not specified|Windows 11 Home + MS Office|Cool Silver|Not specified|Backlit keyboard
+sheet-2-asus-08|ASUS|X1404VAP-EB1541WS|Laptops|85990|Intel Core 5 120U|16GB DDR5|512GB PCIe 4.0 SSD|14.0 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 (IN) + M365 Basic|Cool Silver|Not specified|Non-touch; fingerprint reader; backlit keyboard
+sheet-2-asus-09|ASUS|X1504VAP-BQ1543WS|Laptops|86990|Intel Core 5 120U|16GB DDR5 (8GB x 2)|512GB PCIe 4.0 SSD|15.6 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 (IN) + M365 Basic|Terra Cotta|Not specified|Non-touch; fingerprint reader; backlit keyboard
+sheet-2-asus-10|ASUS|X1607CA-MB142WS|Laptops|88990|Intel Core Ultra 5 225H 1.7GHz|16GB DDR5 on board|512GB PCIe 4 SSD|16.0 WUXGA anti-glare 300 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 + M365 Basic (1 year)|Cool Silver|Not specified|Non-touch; backlit keyboard
+sheet-2-asus-11|ASUS|X1605VA-MB1627WS|Laptops|79990|Intel Core i5-13420H|16GB DDR4 (8GB x 2)|512GB PCIe 4.0 SSD|16.0 FHD 1920 x 1080|Not specified|Windows 11 Home + MS Office|Cool Silver|Not specified|Backlit keyboard
+sheet-2-asus-12|ASUS|X1504VAP-BQ1541WS|Laptops|79990|Intel Core 5 120U|16GB DDR5 (8GB x 2)|512GB PCIe 4.0 SSD|15.6 FHD anti-glare 250 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 (IN) + M365 Basic|Cool Silver|Not specified|Non-touch; fingerprint reader; backlit keyboard
+sheet-2-asus-13|ASUS|X1605VA-MB1628WS|Laptops|99990|Intel Core i7-13620H|16GB DDR4 (8GB x 2)|512GB PCIe 4 SSD|16.0 WUXGA anti-glare 300 nits 45% NTSC|Not specified|Windows 11 Home + Office Home 2024 + M365 Basic (1 year)|1S-Transparent Silver|Not specified|Non-touch; backlit keyboard
+sheet-2-asus-14|ASUS|K3605VC-RP412WS|Laptops|92990|Intel Core i5-13420H|16GB DDR4|512GB M.2 NVMe PCIe 4.0 SSD|16.0 WUXGA 1920 x 1200 16:10 144Hz|NVIDIA RTX 3050 4GB|Windows 11 Home + Office Home 2024 + M365 Basic (1 year)|Not specified|Not specified|Backlit chiclet keyboard with numeric keypad; 50Wh 3-cell battery; one-month Adobe Creative Cloud All Apps Individual membership
+sheet-2-asus-15|ASUS|V3607VU-RP550WS|Laptops|115990|Intel Core 5|16GB DDR5|512GB M.2 NVMe PCIe 4.0 SSD|16.0 WUXGA 1920 x 1200 16:10 144Hz|NVIDIA RTX 4050 6GB|Office Home 2024 (IN) + M365 Basic|Black|Not specified|Backlit chiclet keyboard with numeric keypad; 63Wh 3-cell battery
+sheet-2-asus-16|ASUS|FA506NCQ-HN007WS|Laptops|125990|AMD Ryzen 7 170|16GB DDR5|512GB PCIe 4 SSD|15.6 FHD 144Hz 250 nits|NVIDIA RTX 3050 4GB|MSO|Graphite Black|Not specified|1-zone RGB backlit keyboard; 48Wh battery
+sheet-2-asus-17|ASUS|FA506NCG-HN251WS|Laptops|110990|AMD Ryzen 7 7445HS|16GB DDR5|1TB PCIe 4 SSD|15.6 FHD 144Hz 250 nits|NVIDIA RTX 3050 4GB|MSO|Graphite Black|Not specified|1-zone RGB backlit keyboard; 48Wh battery
+sheet-2-asus-18|ASUS|V440VAB-KWPC001WS|Desktops|68990|Intel Core i3-1315U|8GB DDR5|512GB PCIe 4 SSD|23.8 FHD|UMA|Windows 11 Home + Office + M365 + McAfee AV (30 days)|White|1 year|All-in-one; 2.0M HD camera; Wi-Fi 6E; wireless keyboard and mouse
+chat-3-01|Dell|24-inch Monitor|Monitors|9500||||24-inch|||||Desktop monitor
+chat-3-02|Dell|27-inch Monitor|Monitors|11500||||27-inch|||||Desktop monitor
+chat-3-03|TP-Link|Router|Networking|1990|||||||||Source says To link router; exact model to confirm
+chat-3-04|Igloo|Speaker|Audio|499|||||||||Speaker
+chat-3-05|Zebronics|Headphones|Audio|450|||||||||Source says Zeb head phone; exact model to confirm
+chat-3-06|Zebronics|Transformer Keyboard & Mouse Combo|Accessories|1599|||||||||Keyboard and mouse combo
+chat-3-07|Epson|003 Ink|Toner & Cartridges|490|||||||||Check printer and colour compatibility
+chat-3-08|Epson|3250 Printer|Printers|13790|||||||||Exact printer variant to confirm
+chat-3-09|HP|925 Printer|Printers|10990|||||||||Model as supplied
+chat-3-10|HP|985 Printer|Printers|12900|||||||||Model as supplied
+chat-3-11|Dell|65W Adapter|Accessories|1099|||||||||Check laptop connector and compatibility
+chat-3-12|Dell|Laptop Battery|Accessories|3099|||||||||Check laptop model compatibility
+chat-3-13|Unspecified|HDMI Cable 1.5m|Accessories|259|||||||||1.5-metre HDMI cable
+chat-4-01|Intex|2.1 Speaker|Audio|1990|||||||||2.1 speaker system
+chat-4-02|Zebronics|Trolley Speaker|Audio|3800|||||||||Portable trolley speaker
+chat-4-03|HP|126a Printer|Printers|17990|||||||||Model as supplied
+chat-4-04|HP|126nw Printer|Printers|22900|||||||||Model as supplied
+chat-4-05|Dell|USB Mouse|Accessories|300|||||||||USB mouse
+chat-4-06|HP|USB Mouse|Accessories|300|||||||||Same price as Dell USB mouse in supplied chat
+chat-4-07|Dell|Wireless Mouse|Accessories|750|||||||||Wireless mouse
+chat-4-08|HP|Wireless Mouse|Accessories|750|||||||||Same price as Dell wireless mouse in supplied chat
+chat-4-09|Dell|USB Keyboard|Accessories|550|||||||||USB keyboard
+chat-4-10|HP|USB Keyboard|Accessories|550|||||||||Same price as Dell USB keyboard in supplied chat
+chat-4-11|Dell|Wireless Keyboard & Mouse Combo|Accessories|1350|||||||||Wireless keyboard and mouse combo

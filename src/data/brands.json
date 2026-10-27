@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HP",
+    "image": "/images/brands/hp.svg",
+    "colour": "#0096D6",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/hp.svg"
+  },
+  {
+    "name": "Dell",
+    "image": "/images/brands/dell.svg",
+    "colour": "#007DB8",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/dell.svg"
+  },
+  {
+    "name": "Canon",
+    "image": "/images/brands/canon.svg",
+    "colour": "#CC0000",
+    "source": "https://commons.wikimedia.org/wiki/File:Canon_wordmark.svg"
+  },
+  {
+    "name": "Acer",
+    "image": "/images/brands/acer.svg",
+    "colour": "#83B81A",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/acer.svg"
+  },
+  {
+    "name": "Epson",
+    "image": "/images/brands/epson.svg",
+    "colour": "#003399",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/epson.svg"
+  },
+  {
+    "name": "Brother",
+    "image": "/images/brands/brother.svg",
+    "colour": "#004098",
+    "source": "https://commons.wikimedia.org/wiki/File:Brother_logo.svg"
+  },
+  {
+    "name": "ASUS",
+    "image": "/images/brands/asus.svg",
+    "colour": "#00539B",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/asus.svg"
+  },
+  {
+    "name": "Lenovo",
+    "image": "/images/brands/lenovo.svg",
+    "colour": "#E2231A",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/lenovo.svg"
+  }
+]

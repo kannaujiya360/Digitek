@@ -1,0 +1,16 @@
+[
+  {
+    "id": "digitek-india",
+    "image": "/images/banners/digitek-india.png",
+    "alt": "Experience DigiTek Laptop across India — DigiTek promotional banner",
+    "width": 1752,
+    "height": 608
+  },
+  {
+    "id": "digitek-dell-offer",
+    "image": "/images/banners/digitek-dell-offer-v2.png",
+    "alt": "DigiTek Dell laptop promotional banner — EMI offers up to 24 months and one-year warranty offer, terms and conditions apply",
+    "width": 1767,
+    "height": 608
+  }
+]
