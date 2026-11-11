@@ -40,7 +40,7 @@ export default function BannerSlider(){
         {slides.map((banner,index)=>{
           const clone=multiple&&(index===0||index===slides.length-1);
           const visible=multiple?index===position:true;
-          return <div key={`${banner.id}-${index}`} className="banner-loop-slide" aria-hidden={clone||!visible} role={clone?undefined:'group'} aria-roledescription={clone?undefined:'slide'} aria-label={clone?undefined:`${index} of ${banners.length}`}><img src={banner.image} alt={clone?'':banner.alt} width={banner.width} height={banner.height} loading="eager" fetchPriority={index===1?'high':'auto'}/></div>;
+          return <div key={`${banner.id}-${index}`} className="banner-loop-slide" aria-hidden={clone||!visible} role={clone?undefined:'group'} aria-roledescription={clone?undefined:'slide'} aria-label={clone?undefined:`${index} of ${banners.length}`}><img className="banner-desktop-image" src={banner.image} alt={clone?'':banner.alt} width={banner.width} height={banner.height} loading="eager" fetchPriority={index===1?'high':'auto'}/><div className="banner-mobile-panels" role="img" aria-label={clone?'':banner.alt}>{[0,1].map(part=><div key={part} className="banner-mobile-panel" style={{aspectRatio:`${banner.width / 2} / ${banner.height}`}}><img src={banner.image} alt="" aria-hidden="true" width={banner.width} height={banner.height} style={{left:part===0?'0':'-100%'}}/></div>)}</div></div>;
         })}
       </div>
     </div>
